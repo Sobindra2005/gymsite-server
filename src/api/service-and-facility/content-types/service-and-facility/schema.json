@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "service_and_facilities",
+  "info": {
+    "singularName": "service-and-facility",
+    "pluralName": "service-and-facilities",
+    "displayName": "service&Facility"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "services": {
+      "type": "json"
+    }
+  }
+}

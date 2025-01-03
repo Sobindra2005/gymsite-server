@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "expert_trainers",
+  "info": {
+    "singularName": "expert-trainer",
+    "pluralName": "expert-trainers",
+    "displayName": "expertTrainer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}
